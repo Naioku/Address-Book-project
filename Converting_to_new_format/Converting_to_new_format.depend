@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597925979 source:c:\adi\dokumenty\programowanie\c++\projekt przysz³yprogramista wyzwania\address_book_project\converting_to_new_format\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
