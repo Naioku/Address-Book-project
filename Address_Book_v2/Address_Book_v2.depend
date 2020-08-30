@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597915596 source:c:\adi\dokumenty\programowanie\c++\projekt przysz³yprogramista wyzwania\address_book_v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1597996897 source:c:\adi\dokumenty\programowanie\c++\projekt przysz³yprogramista wyzwania\address_book_project\address_book_v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
