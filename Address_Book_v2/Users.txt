@@ -1,0 +1,6 @@
+1|Klusk|Kluskowy|
+2|Suzej|Sarayu|
+3|Szlag|Mnietrafi|
+4|User4|Password4|
+5|PanKot|Kot|
+
